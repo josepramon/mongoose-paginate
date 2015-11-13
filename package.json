@@ -2,7 +2,7 @@
   "author": "Edward Hotchkiss <edward@edwardhotchkiss.com>",
   "name": "mongoose-paginate",
   "description": "Plugin for Mongoose schemas to easily add paginated queries and results",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "contributors": [
     {
       "name": "Edward Hotchkiss",
@@ -11,6 +11,10 @@
     {
       "name": "Nick Baugh",
       "email": "niftylettuce@gmail.com"
+    },
+    {
+      "name": "Josep Ramon Camps Lladó",
+      "email": "jrcamps@gmail.com"
     }
   ],
   "repository": {
